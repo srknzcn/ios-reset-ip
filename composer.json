@@ -1,5 +1,5 @@
 {
-	"name": "ios-reset-ip",
+	"name": "srknzcn/ios-reset-ip",
 	"require": {
 		"guzzlehttp/guzzle": "^6.3"
 	},
