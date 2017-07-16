@@ -1,8 +1,6 @@
 {
 	"name": "srknzcn/ios-reset-ip",
-	"require": {
-		"guzzlehttp/guzzle": "^6.3"
-	},
+	"description": "Resets the cellular ip adress and gets new one with activator app on jailbroken iphone.",
 	"autoload": {
 		"psr-4": {
 			"IOSResetIP\\": "src/"
