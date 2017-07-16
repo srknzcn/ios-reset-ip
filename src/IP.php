@@ -19,6 +19,9 @@ class IP {
 
     public $IP;
 
+    /**
+     * Constructer of class
+     */
     public function __construct($debug = false) {
         $this->debug = $debug;
 
