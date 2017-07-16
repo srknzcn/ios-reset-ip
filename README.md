@@ -10,7 +10,6 @@ You can install [Activator](http://cydia.saurik.com/package/libactivator/) via c
 ```
 composer require srknzcn/ios-reset-ip
 ```
-
 **Example:**
 ```php
 <?php
